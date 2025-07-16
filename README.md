@@ -8,7 +8,7 @@
 
 ### 🚧 Currently Building
 
-- [**Cerberus Eye**](https://github.com/R-A-H-U-L-Kodez/CerberusEye) – A multi-layered hybrid Intrusion Detection & Prevention System using Behavioural Analysis and Signaturte Based Analysis
+- [**Cerberus Eye**](https://github.com/R-A-H-U-L-Kodez/CerberusEye) – A multi-layered hybrid Intrusion Detection & Prevention System using Behavioural Analysis and Signature Based Analysis
 - [**AegisVault**](https://github.com/R-A-H-U-L-Kodez/AegisVault) – A secure multi-vault password manager with TOTP-based MFA  
 - [**HashPulse**](https://github.com/R-A-H-U-L-Kodez/HashPulse) – Real-time file integrity checker with dashboard and alerts  
 
