@@ -1,18 +1,16 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00FFAA">Rahul Balaskandan</span></h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Frontend Developer | AI Explorer</b><br>
+  <b>Cybersecurity Enthusiast | AI Explorer</b><br>
 </p>
 
 ---
 
 ### 🚧 Currently Building
 
-- 🛡️ [**Cerberus Eye**](https://github.com/R-A-H-U-L-Kodez/CerberusEye) – A multi-layered hybrid Intrusion Detection & Prevention System using Suricata, Zeek & AI  
-- 🧠 [**LapTrack**](https://github.com/R-A-H-U-L-Kodez/LapTrack) – Intelligent laptop price prediction using machine learning  
-- 🔐 [**AegisVault**](https://github.com/R-A-H-U-L-Kodez/AegisVault) – A secure multi-vault password manager with TOTP-based MFA  
-- 🧾 [**HashPulse**](https://github.com/R-A-H-U-L-Kodez/HashPulse) – Real-time file integrity checker with dashboard and alerts  
-- ✍️ Fun Fact: I treat cybersecurity like a strategy game—predict, prevent, and protect!
+- [**Cerberus Eye**](https://github.com/R-A-H-U-L-Kodez/CerberusEye) – A multi-layered hybrid Intrusion Detection & Prevention System using Behavioural Analysis and Signaturte Based Analysis
+- [**AegisVault**](https://github.com/R-A-H-U-L-Kodez/AegisVault) – A secure multi-vault password manager with TOTP-based MFA  
+- [**HashPulse**](https://github.com/R-A-H-U-L-Kodez/HashPulse) – Real-time file integrity checker with dashboard and alerts  
 
 ---
 
