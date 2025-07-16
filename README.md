@@ -57,8 +57,6 @@
 
 #### 🛡️ Cybersecurity Tools
 <p>
-  <img height="40" src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
-  <img height="40" src="https://img.icons8.com/ios-filled/50/linux--v1.png" alt="Linux"/>
   <img height="40" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="Wireshark"/>
   <img height="40" src="https://img.icons8.com/color/48/nmap.png" alt="Nmap"/>
   <img height="40" src="https://images.saasworthy.com/nessus_9107_logo_1635748159_s3yba.jpg" alt="Nessus"/>
