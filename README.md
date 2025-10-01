@@ -73,9 +73,10 @@ I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of 
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
+    
 ---
 
-### 🧠 Tech Stack
+### 🧠 Technological Stack
 
 #### 🗣️ Languages
 <p>
@@ -105,12 +106,12 @@ I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of 
 </p>
 
 ### ⚙️ Command Line & Scripting
-
 <p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell"/>
 </p>
 
+---
 
 #### 🛡️ Cybersecurity Tools
 
@@ -181,6 +182,8 @@ I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
 </p>
+
+---
 
 #### 🧰 Tools & IDEs
 <p>
