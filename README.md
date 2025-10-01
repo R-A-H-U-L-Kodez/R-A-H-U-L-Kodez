@@ -24,17 +24,17 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@--=@@%@@@@@@@#@@@@@@@@%+--+%@@@@@@@@%%@%##+==+++@@@%@@@@@@@@@@@@@@@@@@@@@@@
 </pre>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/api?font=Courier+New&color=00FFAA&center=true&vCenter=true&width=450&pause=1000&lines=Hackers+are+always;one+step+ahead+of+you" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/api?font=Courier+New&color=00FFAA&center=true&vCenter=true&multiline=true&width=450&height=130&pause=1000&lines=>+Booting+main+system...;>+Loading+modules.........[OK];>+Bypassing+firewalls.....[OK];>+Access+Granted." alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Rahul Balaskandan</h3>
-<p align="center"><b>Digital Sentinel & AI Architect</b></p>
+<p align="center"><b>🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | 🚀 Founder of I-Intern | Building, Securing & Innovating</b></p>
 </div>
 
 ---
 
 ### 👋 About Me
 <p>
-  I'm a cybersecurity developer, AI enthusiast, and the <b>Founder & CEO</b> of <a href="https://i-intern.com" target="_blank">I-Intern</a>. I am passionate about building secure, intelligent systems and solving complex problems at the intersection of offensive security and machine learning.
+I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of <a href="https://i-intern.com" target="_blank">I-Intern</a>. My passion lies in building secure, intelligent systems and tackling complex challenges at the crossroads of offensive security and machine learning.
 </p>
 
 ---
@@ -49,6 +49,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/api?font=Courier+New&color=FF0000&center=true&vCenter=true&width=450&height=80&multiline=true&lines=Hackers+are+always;one+step+ahead+of+you&repeat=false" alt="Typing SVG" /></a>
+</p>
+
+---
+
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Why RSA and ECC Won’t Survive Quantum Computing — And What Comes Next?](https://medium.com/@rahulbalaskandan/why-rsa-and-ecc-wont-survive-quantum-computing-and-what-comes-next-ac83d33500ee?source=rss-758b1f0a6ead------2)
@@ -60,16 +66,13 @@
 ---
 
 ### 🌐 Connect with Me
-
-### 🌐 Connect with Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rahulbalaskandan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   <a href="https://medium.com/@rahulbalaskandan">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
-
 ---
 
 ### 🧠 Tech Stack
@@ -79,6 +82,7 @@
   <img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img height="40" src="https://img.icons8.com/color/48/golang.png" alt="Go"/>
 </p>
 
 #### 💻 Frontend
@@ -99,6 +103,14 @@
   <img height="40" src="https://img.icons8.com/color/48/mongo-db.png" alt="Mongo DB"/>
   <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="Postgresql"/>
 </p>
+
+### ⚙️ Command Line & Scripting
+
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell"/>
+</p>
+
 
 #### 🛡️ Cybersecurity Tools
 
@@ -191,6 +203,12 @@
 </p>
 
 ---
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-A-H-U-L-Kodez&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=R-A-H-U-L-Kodez&theme=tokyonight" alt="GitHub Streak" />
@@ -200,12 +218,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R-A-H-U-L-Kodez&theme=tokyonight&show_icons=true&hide=issues" alt="GitHub Stats" />
-</p>
-
----
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-A-H-U-L-Kodez&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -221,3 +233,4 @@
 </p>
 
 ---
+
