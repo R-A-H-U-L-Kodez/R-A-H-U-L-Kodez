@@ -1,4 +1,9 @@
 name: Latest blog post workflow
+
+# Grant the GITHUB_TOKEN permissions to write to repository contents
+permissions:
+  contents: write
+
 on:
   schedule:
     # Runs every hour
@@ -10,8 +15,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/@rahulbalaskandan/feed"
-          gh_token: ${{ secrets.GH_PAT }} # Add this line to use your PAT
