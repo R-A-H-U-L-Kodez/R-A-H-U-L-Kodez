@@ -27,14 +27,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/api?font=Courier+New&color=00FFAA&center=true&vCenter=true&multiline=true&width=450&height=130&pause=1000&lines=>+Booting+main+system...;>+Loading+modules.........[OK];>+Bypassing+firewalls.....[OK];>+Access+Granted." alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Rahul Balaskandan</h3>
-<p align="center"><b>🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | 🚀 Founder of I-Intern | Building, Securing & Innovating</b></p>
+<p align="center"><b>🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | 🚀 Founder of Torkq | Building, Securing & Innovating</b></p>
 </div>
 
 ---
 
 ### 👋 About Me
 <p>
-I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of <a href="https://i-intern.com" target="_blank">I-Intern</a>. My passion lies in building secure, intelligent systems and tackling complex challenges at the crossroads of offensive security and machine learning.
+I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of <a href="https://i-intern.com" target="_blank">Torkq</a>. My passion lies in building secure, intelligent systems and tackling complex challenges at the crossroads of offensive security and machine learning.
 </p>
 
 ---
