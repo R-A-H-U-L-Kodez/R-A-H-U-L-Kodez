@@ -206,30 +206,6 @@ I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of 
 </p>
 
 ---
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-A-H-U-L-Kodez&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=R-A-H-U-L-Kodez&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-A-H-U-L-Kodez&theme=tokyonight&show_icons=true&hide=issues" alt="GitHub Stats" />
-</p>
-
----
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R-A-H-U-L-Kodez&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
----
 ### 🐍 My Contributions
 <p align="center">
   <img src="https://github.com/R-A-H-U-L-Kodez/R-A-H-U-L-Kodez/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" />
