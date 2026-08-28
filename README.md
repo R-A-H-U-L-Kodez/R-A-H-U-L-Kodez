@@ -34,7 +34,7 @@
 
 ### 👋 About Me
 <p>
-I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of <a href="https://i-intern.com" target="_blank">Torkq</a>. My passion lies in building secure, intelligent systems and tackling complex challenges at the crossroads of offensive security and machine learning.
+I’m a Cybersecurity Developer, AI Enthusiast, and the <b>Founder & CEO</b> of <a href="https://www.torkq.com" target="_blank">Torkq</a>. My passion lies in building secure, intelligent systems and tackling complex challenges at the crossroads of offensive security and machine learning.
 </p>
 
 ---
